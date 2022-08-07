@@ -2,27 +2,13 @@
 
 
 
-### Markdown
+## EDUCATION BACKGROUND
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+University College London | UG-Mathematics | 09/2020-06/2023
 
-# Header 1
-## Header 2
-### Header 3
+The National Mathematics and Science College (NMSC) | A-level 09/2017-06/2020
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
