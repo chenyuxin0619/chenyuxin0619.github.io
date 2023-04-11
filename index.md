@@ -1,3 +1,10 @@
+# Yuxin Chen
+
+<p>📞 <a href="tel:+8615666202656">+86 156 6620 2656</a> 📧 <a href="mailto:yuxinchennn@163.com">yuxinchennn@163.com</a></p>
+<p>🏠 No. 1188, East Dongyue Road, Lingshanwei Subdistrict, Huangdao District, Qingdao, Shandong, 266555, China</p>
+
+
+
 ## PROFESSIONAL SUMMARY
 
 A young and self-motivated college student with an excellent understanding of finance and mathematics. A result-driven team player with superior analytical and problem-solving skills, always ready for challenge. Highly adaptable to new environments and work well on a team with diversified cultural/academic backgrounds.
@@ -13,7 +20,7 @@ Candidate for Bachelor of Science Degree (First-class Honours)
 Current Average Score: 68.64/100  
 Core Modules: Micro/Macroeconomics; Econometrics; Accounting; Financial Mathematics; Probability; Linear Algebra.  
 
-## ACADEMIC \& PROJECT EXPERIENCE
+## ACADEMIC & PROJECT EXPERIENCE
 **Econometrics Project: Research in Empirical Finance**  <span style="float:right">Jul 2022 - Present</span>  
 Team Leader  <span style="float:right">Online</span>  
 Trained in financial modeling, and econometrics by Oliver Linton;  
@@ -74,7 +81,7 @@ Responsible  for  regular  checks  and  updates  of  real-time  data  and  emerg
 - Certificate of Excel Fundamentals - Formulas for Finance
 - Certificate of Reading Financial Statements
 
-## AWARDS \& HONORS
+## AWARDS & HONORS
 03/2019, **Gold Certificate**, 51st annual Chemistry Olympaid 2019 UK Round One  
 03/2019, **Bronze**, Brithsh Physics Olympaid 2018-19 AS Challlenge competition  
 03/2018, **Sliver Certificate**, Senior Mathematical Challenge 2018, United Kingdom Mathematics Trust  
