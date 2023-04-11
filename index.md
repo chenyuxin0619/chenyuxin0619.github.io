@@ -1,3 +1,6 @@
+<p>📞 <a href="tel:+8615666202656">+86 156 6620 2656</a> 📧 <a href="mailto:yuxinchennn@163.com">yuxinchennn@163.com</a></p>
+<p>🏠 No. 1188, East Dongyue Road, Lingshanwei Subdistrict, Huangdao District, Qingdao, Shandong, 266555, China</p>
+
 ## PROFESSIONAL SUMMARY
 
 A young and self-motivated college student with an excellent understanding of finance and mathematics. A result-driven team player with superior analytical and problem-solving skills, always ready for challenge. Highly adaptable to new environments and work well on a team with diversified cultural/academic backgrounds.
