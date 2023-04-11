@@ -5,7 +5,9 @@ A young and self-motivated college student with an excellent understanding of fi
 
 ## EDUCATION BACKGROUND
 
-**University College London** Sep 2020 - Jun 2023  
+**University College London**  <span style="float:right">Sep 2020 - Jun 2023</span>  
+<!-- align dates to the right -->
+
 BSc Mathematics  
 Candidate for Bachelor of Science Degree (First-class Honours)  
 Current Average Score: 68.64/100  
