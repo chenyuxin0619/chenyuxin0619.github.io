@@ -1,4 +1,4 @@
-<p>📞 <a href="tel:+8615666202656">+86 156 6620 2656</a> 📧 <a href="mailto:yuxinchennn@163.com">yuxinchennn@163.com</a></p>
+<p>📞 <a href="tel:+8615666202656">+86 156 6620 2656</a> 📧 <a href="mailto:yuxinchennn@163.com">yuxinchennn@163.com</a></p> <span style="float:right"><img src="./assets/fig.jpg" alt="drawing" width="200"/></span>
 <p>🏠 No. 1188, East Dongyue Road, Lingshanwei Subdistrict, Huangdao District, Qingdao, Shandong, 266555, China</p>
 
 ## PROFESSIONAL SUMMARY
