@@ -13,7 +13,7 @@ A young and self-motivated college student with an excellent understanding of fi
 
 BSc Mathematics  
 Candidate for Bachelor of Science Degree (First-class Honours)  
-Current Average Score: 68.64/100  
+Current Average Score: 70/100  
 Core Modules: Micro/Macroeconomics; Econometrics; Accounting; Financial Mathematics; Probability; Linear Algebra.  
 
 ## ACADEMIC & PROJECT EXPERIENCE
