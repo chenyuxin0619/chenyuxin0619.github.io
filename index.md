@@ -22,7 +22,7 @@ Team Leader  <span style="float:right">Online</span>
 Trained in financial modeling, and econometrics by Oliver Linton;  
 Developed a research project on the impact of COVID-19 on travel cooperation;  
 Collected data using Python from online sources, and processed through R and Stata;  
-Reached robust results and proposed possible ways of recovery. Conducted scenario analysis and stress test to predict its long-term prospects  
+Reached robust results and proposed possible ways of recovery. Conducted scenario analysis and stress test to predict its long-term prospects.  
 
 **Foundations of Finance, provided by University of Cambridge on edX**  <span style="float:right">Aug 2022 -  Sep 2022</span>
 Course Member  <span style="float:right">Online</span>  
