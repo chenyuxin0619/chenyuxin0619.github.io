@@ -65,12 +65,14 @@ Responsible  for  regular  checks  and  updates  of  real-time  data  and  emerg
 **Language Skill:**
 - Mandarin (Native)
 - English (Advanced)
+
 **Computer Software:**
 - Microsoft Excel
 - PowerPoint
 - Word (Advanced)
 - Stata and R (Proficient)
 - Python and Matlab
+
 **Professional Certificate:**
 - Certificate of Accounting Fundamentals
 - Certificate of Corporate Finance Fundamentals
