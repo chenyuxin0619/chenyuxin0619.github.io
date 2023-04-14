@@ -17,8 +17,8 @@ Current Average Score: 70/100
 Core Modules: Micro/Macroeconomics; Econometrics; Accounting; Financial Mathematics; Probability; Linear Algebra.  
 
 ## ACADEMIC & PROJECT EXPERIENCE
-**Econometrics Project: Research in Empirical Finance**  <span style="float:right">Jul 2022 - Present</span>  
-Team Leader  <span style="float:right">Online</span>  
+**Econometrics Project: Research in Empirical Finance**  <span style="float:right">Jul 2022 - Sep 2022</span>  
+Team Leader  <span style="float:right"></span>  
 Trained in financial modeling, and econometrics by Oliver Linton;  
 Developed a research project on the impact of COVID-19 on travel cooperation;  
 Collected data using Python from online sources, and processed through R and Stata;  
