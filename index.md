@@ -25,7 +25,7 @@ Collected data using Python from online sources, and processed through R and Sta
 Reached robust results and proposed possible ways of recovery. Conducted scenario analysis and stress test to predict its long-term prospects.  
 
 **Foundations of Finance, provided by University of Cambridge on edX** <span style="float:right">Aug 2022 -  Sep 2022</span>
-Course Member  <span style="float:right">Online</span>  
+   Course Member  <span style="float:right">Online</span>  
 Learned  fundamental  financial  knowledge  including  valuation  model,  financial  reporting  analysis,  trading  strategies  of  financial  derivatives (futures and options), and risk management through case studies and interviews.  
 
 **CS50’s Introduction to Programming with Python, provided by HarvardX on edX** <span style="float:right">Jul 2022 -  Aug 2022</span>  
